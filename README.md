@@ -55,7 +55,7 @@
   
   **Output of File Filtering Script:**
   
-  ![Output of files that ended with .csv](image/output_of_reading_csv_files.png)
+  ![Output of files that ended with .csv](image/output of reading csv files.png)
 
   
 ## Happy coding!!!...
