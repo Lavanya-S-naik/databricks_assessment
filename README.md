@@ -43,8 +43,11 @@
   USING delta
   AS SELECT * FROM employee_data;
   </code>
+  
 ### 6. Review Outputs
   Check the printed list of CSV files in your notebook output.
- Creation of the delta_employee table in SQL or workspace table browser.
+  Creation of the delta_employee table in SQL or workspace table browser.
+
+## Happy coding!!!...
  
 
