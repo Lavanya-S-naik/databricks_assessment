@@ -45,8 +45,10 @@
   </code>
   
 ### 6. Review Outputs
-  Check the printed list of CSV files in your notebook output.
+  Check the printed list of CSV files in your notebook output.<br>
   Creation of the delta_employee table in SQL or workspace table browser.
+  **Snapshots**
+  
 
 ## Happy coding!!!...
  
