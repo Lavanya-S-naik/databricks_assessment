@@ -48,8 +48,11 @@
   Check the printed list of CSV files in your notebook output.<br>
   Creation of the delta_employee table in SQL or workspace table browser.
   **Snapshots**
-  
 
+  [output of delta table creation] (image/delta_table.png)<br>
+  [Output of files that ended with .csv] (image/output of reading csv files.png) 
+  
+  
 ## Happy coding!!!...
  
 
