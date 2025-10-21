@@ -28,8 +28,8 @@
 
 ### 3. Upload CSV Files to Databricks
   
-  Move the generated .csv files into Databricks (preferably /FileStore/csv-files in DBFS).
-  Use Databricks UI "Data"/"Upload Data" if available.
+  Move the generated .csv files into Databricks.
+  Or Use Databricks UI "Data"/"Upload Data" if available.
 
 ### 4. List and Filter Files Using Python
   In a Databricks notebook cell, filter for .csv files using python code given in folder.
@@ -37,12 +37,12 @@
 ### 5. Create a Delta Table from Existing Table using SQL
   Use the SQL editor or notebook cell, and run:
 
- 
+ <code>
   sql
   CREATE TABLE delta_employee
   USING delta
   AS SELECT * FROM employee_data;
-  
+  </code>
 ### 6. Review Outputs
   Check the printed list of CSV files in your notebook output.
  Creation of the delta_employee table in SQL or workspace table browser.
